@@ -1,2 +1,1 @@
-# gitest
-git test
+A 개발자
